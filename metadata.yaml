@@ -1,5 +1,8 @@
 _repo: Sparrows--The-Story-of-an-Unprotected-Girl_4345
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Newte, Horace W. C. (Horace Wykeham Can)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1459'
     url: http://www.gutenberg.org/2009/agents/1459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4345#Sparrows--The-Story-of-an-Unprotected-Girl
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
